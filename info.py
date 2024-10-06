@@ -43,9 +43,9 @@ SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link 
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', False)
 #---------------------------------------------------------------
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/")
-TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/")
-TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/HowToDowloadlink1/4")
+TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/HowToDowloadlink1/4")
+TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/HowToDowloadlink1/4")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
 SHORTENER_API = environ.get("SHORTENER_API", "7d89a5f12ee4f0e5e8b80be8b876f63eb0168bdc")
 SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'pocolinks.com')
